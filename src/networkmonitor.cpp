@@ -1,4 +1,4 @@
-#include "networkmonitor.h"
+#include "../include/networkmonitor.h"
 #include <QVBoxLayout>
 
 NetworkMonitor::NetworkMonitor(QWidget *parent) : QMainWindow(parent) {

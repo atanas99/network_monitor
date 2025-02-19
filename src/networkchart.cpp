@@ -1,8 +1,8 @@
-#include "networkchart.h"
-#include "chartsetup.h"
-#include "axissetup.h"
-#include "uicomponents.h"
-#include "dataupdater.h"
+#include "../include/networkchart.h"
+#include "../include/chartsetup.h"
+#include "../include/axissetup.h"
+#include "../include/uicomponents.h"
+#include "../include/dataupdater.h"
 
 NetworkChart::NetworkChart(QWidget *parent) : QWidget(parent) {
     chartSetup = new ChartSetup();

@@ -1,4 +1,4 @@
-#include "networktable.h"
+#include "../include/networktable.h"
 #include <QNetworkInterface>
 #include <QProcess>
 #include <QDateTime>

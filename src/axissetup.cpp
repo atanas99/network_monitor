@@ -1,4 +1,4 @@
-#include "axissetup.h"
+#include "../include/axissetup.h"
 
 AxisSetup::AxisSetup(QChart *chartData, QChart *chartPackets, QLineSeries *seriesIn, QLineSeries *seriesOut,
                      QLineSeries *seriesInPackets, QLineSeries *seriesOutPackets) {

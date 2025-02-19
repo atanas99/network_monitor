@@ -1,4 +1,4 @@
-#include "dataupdater.h"
+#include "../include/dataupdater.h"
 #include <QDateTime>
 
 DataUpdater::DataUpdater(

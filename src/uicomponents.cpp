@@ -1,4 +1,4 @@
-#include "uicomponents.h"
+#include "../include/uicomponents.h"
 #include <QChartView>
 #include <QVBoxLayout>
 #include <QHBoxLayout>

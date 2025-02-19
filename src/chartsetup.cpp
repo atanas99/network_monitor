@@ -1,4 +1,4 @@
-#include "chartsetup.h"
+#include "../include/chartsetup.h"
 #include <QPen>
 
 ChartSetup::ChartSetup() {
