@@ -1,6 +1,6 @@
 #include <QApplication>
 #include <QMessageBox>
-#include "networkmonitor.h"
+#include "../include/networkmonitor.h"
 
 int main(int argc, char *argv[]) {
     QApplication app(argc, argv);
